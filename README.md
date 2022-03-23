@@ -7,6 +7,7 @@ Add this line to UPM Window for installing this plugins
 
 ## How To Use
 Call this function for open detail app setting activity
+
     public void OpenAppSettingDetailPopup()
     {
     #if UNITY_ANDROID && !UNITY_EDITOR
