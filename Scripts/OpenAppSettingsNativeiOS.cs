@@ -1,9 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class OpenAppSettingsNativeiOS
+namespace AppSettingsSDK
 {
+    public class OpenAppSettingsNativeiOS
+    {
 #if UNITY_IPHONE
         [DllImport ("__Internal")]
         public static extern string GetSettingsURL();
@@ -12,4 +13,6 @@ public class OpenAppSettingsNativeiOS
         public static extern void OpenSettings();
 #endif
 
+    }
 }
+

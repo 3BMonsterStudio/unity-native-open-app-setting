@@ -1,6 +1,6 @@
 {
   "name": "com.imosys.openappdetailsettings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Open Native App Detail Settings",
   "keywords": [
     "MonsterSDK",
@@ -10,5 +10,6 @@
     "name": "MonsterSDK",
     "url": "https://github.com/quanpna-monster"
   },
-  "description": "Open App Detail Settings Activity on Android"
+  "description": "Open App Detail Settings Activity on Android",
+  "unity": "2019.3"
 }
