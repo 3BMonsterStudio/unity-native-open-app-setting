@@ -3,7 +3,7 @@
 
 Add this line to UPM Window for installing this plugins
 
-    https://github.com/3BMonsterStudio/unity-native-open-app-setting.git
+    https://github.com/3BMonsterStudio/unity-native-open-app-setting.git#{release_version}
 
 ## How To Use
 Call this function for open detail app setting activity
